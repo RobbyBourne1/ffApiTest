@@ -1,0 +1,10 @@
+/Users/robbybourne/Projects/ffApiTest/bin/Debug/netcoreapp2.0/ffApiTest.deps.json
+/Users/robbybourne/Projects/ffApiTest/bin/Debug/netcoreapp2.0/ffApiTest.runtimeconfig.json
+/Users/robbybourne/Projects/ffApiTest/bin/Debug/netcoreapp2.0/ffApiTest.runtimeconfig.dev.json
+/Users/robbybourne/Projects/ffApiTest/bin/Debug/netcoreapp2.0/ffApiTest.dll
+/Users/robbybourne/Projects/ffApiTest/bin/Debug/netcoreapp2.0/ffApiTest.pdb
+/Users/robbybourne/Projects/ffApiTest/obj/Debug/netcoreapp2.0/ffApiTest.csproj.CoreCompileInputs.cache
+/Users/robbybourne/Projects/ffApiTest/obj/Debug/netcoreapp2.0/ffApiTest.AssemblyInfoInputs.cache
+/Users/robbybourne/Projects/ffApiTest/obj/Debug/netcoreapp2.0/ffApiTest.AssemblyInfo.cs
+/Users/robbybourne/Projects/ffApiTest/obj/Debug/netcoreapp2.0/ffApiTest.dll
+/Users/robbybourne/Projects/ffApiTest/obj/Debug/netcoreapp2.0/ffApiTest.pdb
